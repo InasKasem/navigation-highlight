@@ -15,7 +15,7 @@ body {
 header {
   background-color: #ffe500;
   margin: 0;
-  padding: .4em 0;
+  padding: .2em 0;
   display: block;
 }
 
@@ -45,7 +45,7 @@ nav a {
   color: #fff;
   text-decoration: none;
   background-color: #b2a212;
-  padding: .5em;
+  padding: .3em;
   margin: 0;
   border-radius: 4px;
 }
@@ -80,13 +80,12 @@ p {
 
 .main-p {
   font-size: 1rem;
-
 }
 
 footer {
   background-color: #ffe500;
-  margin: 0;
-  padding: 2.5em 2.5em;
+  margin: 1em 0 0;
+  padding: 1em;
   display: block;
   text-align: center;
   font-size: .75rem;
